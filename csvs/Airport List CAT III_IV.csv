@@ -1,0 +1,463 @@
+﻿Airport List,,,,,,,,
+,,,,,,,,
+Airport,,Hub,Airport Category,City,State,Airport Hub Division,Area,Airport Federalized Flag
+ABE,Lehigh Valley International,PHL,II,Allentown,PA,Northeast,Surface Region 2,Y
+CVN,Clovis Regional,ABQ,IV,Texico,NM,Western,Surface Region 4,Y
+ABQ,Albuquerque International Sunport,ABQ,I,Albuquerque,NM,Western,Surface Region 4,Y
+FMN,Four Corners Regional,ABQ,IV,Farmington,NM,Western,Surface Region 4,Y
+HOB,Lea County Regional,ABQ,IV,Lovington,NM,Western,Surface Region 4,Y
+ROW,Roswell Air Center,ABQ,III,Roswell,NM,Western,Surface Region 4,Y
+SAF,Santa Fe Municipal,ABQ,III,Santa Fe,NM,Western,Surface Region 4,Y
+ART,Watertown International,ALB,IV,Dexter,NY,Northeast,Surface Region 1,Y
+ACY,Atlantic City International,EWR,II,Pleasantville,NJ,Northeast,Surface Region 1,Y
+BGM,Greater Binghamton/Edwin A Link Field,ALB,III,Johnson City,NY,Northeast,Surface Region 1,Y
+ELM,Elmira/Corning Regional,ALB,III,Horseheads,NY,Northeast,Surface Region 1,Y
+IAG,Niagara Falls International,ALB,III,Niagara Falls,NY,Northeast,Surface Region 1,Y
+AGS,Augusta Regional at Bush Field,ATL,II,Augusta,GA,Southeast,Surface Region 2,Y
+ITH,Ithaca Tompkins International,ALB,III,Ithaca,NY,Northeast,Surface Region 1,Y
+MSS,Massena International-Richards Field,ALB,IV,Massena,NY,Northeast,Surface Region 1,Y
+ALB,Albany International,ALB,I,Albany,NY,Northeast,Surface Region 1,Y
+OGS,Ogdensburg International,ALB,III,Ogdensburg,NY,Northeast,Surface Region 1,Y
+PBG,Plattsburgh International,ALB,III,Plattsburgh,NY,Northeast,Surface Region 1,Y
+SLK,Adirondack Regional,ALB,IV,Saranac Lake,NY,Northeast,Surface Region 1,Y
+AMA,Rick Husband Amarillo International,AUS,II,Amarillo,TX,Western,Surface Region 4,Y
+ANC,Ted Stevens Anchorage International,ANC,I,Anchorage,AK,Western,Surface Region 5,Y
+ADK,Adak,ANC,III,Adak,AK,Western,Surface Region 5,Y
+ADQ,Kodiak,ANC,III,Kodiak,AK,Western,Surface Region 5,Y
+AKN,King Salmon,ANC,III,King Salmon,AK,Western,Surface Region 5,Y
+ASE,Aspen-Pitkin County/Sardy Field,DEN,II,Aspen,CO,Central,Surface Region 4,Y
+ATL,Hartsfield - Jackson Atlanta International,ATL,X,Atlanta,GA,Southeast,Surface Region 2,Y
+ATW,Appleton International,MKE,II,Appleton,WI,Central,Surface Region 3,Y
+BET,Bethel,ANC,III,Bethel,AK,Western,Surface Region 5,Y
+BRW,Wiley Post-Will Rogers Memorial,ANC,III,Barrow,AK,Western,Surface Region 5,Y
+AUS,Austin-Bergstrom International,AUS,I,Austin,TX,Western,Surface Region 4,Y
+AVL,Asheville Regional,CLT,II,Fletcher,NC,Southeast,Surface Region 2,Y
+AVP,Wilkes-Barre/Scranton International,PHL,II,Avoca,PA,Northeast,Surface Region 2,Y
+CDV,Merle K (Mudhole) Smith,ANC,III,Cordova,AK,Western,Surface Region 5,Y
+DLG,Dillingham,ANC,III,Dillingham,AK,Western,Surface Region 5,Y
+BDL,Bradley International,BDL,I,Windsor Locks,CT,Northeast,Surface Region 1,Y
+GST,Gustavus,ANC,III,Gustavus,AK,Western,Surface Region 5,Y
+KTN,Ketchikan International,ANC,III,Ketchikan,AK,Western,Surface Region 5,Y
+OME,Nome,ANC,III,Nome,AK,Western,Surface Region 5,Y
+OTZ,Ralph Wien Memorial,ANC,III,Kotzebue,AK,Western,Surface Region 5,Y
+PSG,Petersburg James A Johnson,ANC,III,Petersburg,AK,Western,Surface Region 5,Y
+SCC,Deadhorse,ANC,III,Prudhoe Bay,AK,Western,Surface Region 5,Y
+BGR,Bangor International,PWM,II,Bangor,ME,Northeast,Surface Region 1,Y
+SIT,Sitka Rocky Gutierrez,ANC,III,Sitka,AK,Western,Surface Region 5,Y
+BHM,Birmingham-Shuttlesworth International,BHM,I,Birmingham,AL,Southeast,Surface Region 2,Y
+WRG,Wrangell,ANC,III,Wrangell,AK,Western,Surface Region 5,Y
+BIL,Billings Logan International,BIL,II,Billings,MT,Central,Surface Region 4,Y
+BIS,Bismarck Municipal,BIS,II,Bismarck,ND,Central,Surface Region 4,Y
+YAK,Yakutat,ANC,III,Yakutat,AK,Western,Surface Region 5,Y
+ABY,Southwest Georgia Regional,ATL,III,Albany,GA,Southeast,Surface Region 2,Y
+BLI,Bellingham International,SEA,II,Bellingham,WA,Western,Surface Region 5,Y
+BQK,Brunswick Golden Isles,ATL,III,Brunswick,GA,Southeast,Surface Region 2,Y
+CSG,Columbus,ATL,III,Columbus,GA,Southeast,Surface Region 2,Y
+BNA,Nashville International,BNA,I,Nashville,TN,Southeast,Surface Region 2,Y
+BOI,Boise Air Terminal/Gowen Field,BOI,I,Boise,ID,Western,Surface Region 5,Y
+BOS,General Edward Lawrence Logan International,BOS,X,East Boston,MA,Northeast,Surface Region 1,Y
+MCN,Middle Georgia Regional,ATL,IV,Macon,GA,Southeast,Surface Region 2,Y
+VLD,Valdosta Regional,ATL,III,Valdosta,GA,Southeast,Surface Region 2,Y
+BQN,Rafael Hernandez,SJU,II,Aguadilla,PR,Southeast,Surface Region 2,Y
+ACT,Waco Regional,AUS,III,Waco,TX,Western,Surface Region 4,Y
+CLL,Easterwood Field,AUS,III,College Station,TX,Western,Surface Region 4,Y
+GRK,Robert Gray AAF,AUS,III,Killeen,TX,Western,Surface Region 4,Y
+SJT,San Angelo Regional/Mathis Field,AUS,III,San Angelo,TX,Western,Surface Region 4,Y
+BFM,Mobile International,BHM,III,Mobile,AL,Southeast,Surface Region 2,N
+BTR,"Baton Rouge Metropolitan, Ryan Field",MSY,II,Baton Rouge,LA,Southeast,Surface Region 4,Y
+BTV,Burlington International,BTV,II,South Burlington,VT,Northeast,Surface Region 1,Y
+BUF,Buffalo Niagara International,ALB,I,Cheektowaga,NY,Northeast,Surface Region 1,Y
+BUR,Bob Hope,BUR,I,Burbank,CA,Western,Surface Region 5,Y
+BWI,Baltimore/Washington International Thurgood Marshall,BWI,X,BWI Airport,MD,Northeast,Surface Region 2,Y
+BZN,Bozeman Yellowstone International,BIL,II,Belgrade,MT,Central,Surface Region 4,Y
+CAE,Columbia Metropolitan,CHS,II,West Columbia,SC,Southeast,Surface Region 2,Y
+CAK,Akron-Canton Regional,CMH,II,North Canton,OH,Northeast,Surface Region 3,Y
+DHN,Dothan Regional,BHM,III,Dothan,AL,Southeast,Surface Region 2,Y
+JKA,Gulf Shores International/Jack Edwards Field,BHM,III,Gulf Shores,AL,Southeast,Surface Region 2,Y
+MGM,Montgomery Regional (Dannelly Field),BHM,III,Montgomery,AL,Southeast,Surface Region 2,Y
+MSL,Northwest Alabama Regional,BHM,IV,Muscle Shoals,AL,Southeast,Surface Region 2,Y
+BTM,Bert Mooney,BIL,III,Butte,MT,Central,Surface Region 4,Y
+GDV,Dawson Communicipalty,BIL,IV,Glendive,MT,Central,Surface Region 4,Y
+GGW,Wokal Field/Glasgow-Valley County,BIL,IV,Glasgow,MT,Central,Surface Region 4,Y
+CHA,Lovell Field,BNA,II,Chattanooga,TN,Southeast,Surface Region 2,Y
+CHO,Charlottesville-Albemarle,IAD,II,Charlottesville,VA,Southeast,Surface Region 2,Y
+CHS,Charleston AFB/International,CHS,I,Charleston,SC,Southeast,Surface Region 2,Y
+CID,The Eastern Iowa,DSM,II,Cedar Rapids,IA,Central,Surface Region 3,Y
+GTF,Great Falls International,BIL,III,Great Falls,MT,Central,Surface Region 4,Y
+HLN,Helena Regional,BIL,III,Helena,MT,Central,Surface Region 4,Y
+CLE,Cleveland-Hopkins International,CMH,I,Cleveland,OH,Northeast,Surface Region 3,Y
+HVR,Havre City-County,BIL,IV,Havre,MT,Central,Surface Region 4,Y
+CLT,Charlotte/Douglas International,CLT,X,Charlotte,NC,Southeast,Surface Region 2,Y
+CMH,John Glenn Columbus International,CMH,I,Columbus,OH,Northeast,Surface Region 3,Y
+OLF,L M Clayton,BIL,IV,Wolf Point,MT,Central,Surface Region 4,Y
+SDY,Sidney-Richland Regional,BIL,IV,Sidney,MT,Central,Surface Region 4,Y
+WYS,Yellowstone,BIL,IV,West Yellowstone,MT,Central,Surface Region 4,Y
+DIK,Dickinson/Theodore Roosevelt Regional,BIS,IV,Dickinson,ND,Central,Surface Region 4,Y
+COS,City Of Colorado Springs Municipal,DEN,II,Colorado Springs,CO,Central,Surface Region 4,Y
+DVL,Devils Lake Regional,BIS,IV,Devils Lake,ND,Central,Surface Region 4,Y
+GFK,Grand Forks International,BIS,III,Grand Forks,ND,Central,Surface Region 4,Y
+CRP,Corpus Christi International,SAT,II,Corpus Christi,TX,Western,Surface Region 4,Y
+JMS,Jamestown Regional,BIS,IV,Jamestown,ND,Central,Surface Region 4,Y
+MOT,Minot International,BIS,III,Minot,ND,Central,Surface Region 4,Y
+XWA,Williston Basin International,BIS,III,Williston,ND,Central,Surface Region 4,Y
+CVG,Cincinnati/Northern Kentucky International,CVG,I,Hebron,KY,Northeast,Surface Region 2,Y
+MKL,Mc Kellar-Sipes Regional,BNA,IV,Jackson,TN,Southeast,Surface Region 2,Y
+TRI,Tri-Cities,BNA,III,Blountville,TN,Southeast,Surface Region 2,Y
+LWS,Lewiston/Nez Perce County,BOI,III,Lewiston,ID,Western,Surface Region 5,Y
+DAB,Daytona Beach International,MCO,II,Daytona Beach,FL,Southeast,Surface Region 2,Y
+DAL,Dallas Love Field,DAL,I,Dallas,TX,Western,Surface Region 4,Y
+DAY,James M Cox Dayton International,CMH,II,Dayton,OH,Northeast,Surface Region 3,Y
+PIH,Pocatello Regional,BOI,III,Pocatello,ID,Western,Surface Region 5,Y
+DCA,Ronald Reagan Washington National,DCA,X,Arlington,VA,Southeast,Surface Region 2,Y
+SUN,Friedman Memorial,BOI,III,Hailey,ID,Western,Surface Region 5,Y
+TWF,Joslin Field/Magic Valley Regional,BOI,III,Twin Falls,ID,Western,Surface Region 5,Y
+DEN,Denver International,DEN,X,Denver,CO,Central,Surface Region 4,Y
+DFW,Dallas-Fort Worth International,DFW,X,DFW Airport,TX,Western,Surface Region 4,Y
+ACK,Nantucket Memorial,BOS,III,Nantucket,MA,Northeast,Surface Region 1,Y
+CEF,Westover ARB/Metropolitan,BOS,III,Chicopee,MA,Northeast,Surface Region 1,Y
+EWB,New Bedford Regional,BOS,IV,New Bedford,MA,Northeast,Surface Region 1,N
+HYA,Cape Cod Gateway,BOS,III,Hyannis,MA,Northeast,Surface Region 1,Y
+MVY,Martha's Vineyard,BOS,III,Vineyard Haven,MA,Northeast,Surface Region 1,Y
+ORH,Worcester Regional,BOS,III,Worcester,MA,Northeast,Surface Region 1,Y
+DSM,Des Moines International,DSM,I,Des Moines,IA,Central,Surface Region 3,Y
+DTW,Detroit Metropolitan Wayne County,DTW,X,Detroit,MI,Northeast,Surface Region 3,Y
+PVC,Provincetown Municipal,BOS,IV,Provincetown,MA,Northeast,Surface Region 1,Y
+RUT,Rutland - Southern Vermont Regional,BTV,IV,North Clarendon,VT,Northeast,Surface Region 1,Y
+SMX,Santa Maria Public/Capt G Allan Hancock Field,BUR,III,Santa Maria,CA,Western,Surface Region 5,Y
+HGR,Hagerstown Regional/Richard A Henson Field,BWI,IV,Hagerstown,MD,Northeast,Surface Region 2,Y
+SBY,Salisbury-Ocean City Wicomico Regional,BWI,IV,Salisbury,MD,Northeast,Surface Region 2,Y
+ECP,Northwest Florida Beaches International,MCO,II,West Bay,FL,Southeast,Surface Region 2,Y
+FLO,Florence Regional,CHS,IV,Florence,SC,Southeast,Surface Region 2,Y
+HXD,Hilton Head,CHS,III,Hilton Head Island,SC,Southeast,Surface Region 2,Y
+JQF,Concord-Padgett Regional,CLT,III,Concord,NC,Southeast,Surface Region 2,Y
+LCK,Rickenbacker International,CMH,III,Columbus,OH,Northeast,Surface Region 3,Y
+ELP,El Paso International,ELP,I,El Paso,TX,Western,Surface Region 4,Y
+TOL,Eugene F Kranz Toledo Express,CMH,III,Swanton,OH,Northeast,Surface Region 3,Y
+COD,Yellowstone Regional,CPR,IV,Cody,WY,Central,Surface Region 4,Y
+CPR,Casper/Natrona County International,CPR,III,Casper,WY,Central,Surface Region 4,Y
+EUG,Mahlon Sweet Field,PDX,II,Eugene,OR,Western,Surface Region 5,Y
+CYS,Cheyenne Regional/Jerry Olson Field,CPR,IV,Cheyenne,WY,Central,Surface Region 4,Y
+GCC,Northeast Wyoming Regional,CPR,IV,Gillette,WY,Central,Surface Region 4,Y
+LAR,Laramie Regional,CPR,IV,Laramie,WY,Central,Surface Region 4,Y
+EWR,Newark Liberty International,EWR,X,Newark,NJ,Northeast,Surface Region 1,Y
+EYW,Key West International,FLL,II,Key West,FL,Southeast,Surface Region 2,Y
+FAI,Fairbanks International,ANC,II,Fairbanks,AK,Western,Surface Region 5,Y
+FAR,Hector International,BIS,II,Fargo,ND,Central,Surface Region 4,Y
+FAT,Fresno Yosemite International,SFO,II,Fresno,CA,Western,Surface Region 5,Y
+RIW,Central Wyoming Regional,CPR,IV,Riverton,WY,Central,Surface Region 4,Y
+RKS,Southwest Wyoming Regional,CPR,IV,Rock Springs,WY,Central,Surface Region 4,Y
+FLL,Fort Lauderdale/Hollywood International,FLL,X,Fort Lauderdale,FL,Southeast,Surface Region 2,Y
+SHR,Sheridan County,CPR,IV,Sheridan,WY,Central,Surface Region 4,Y
+BKW,Raleigh County Memorial,CRW,IV,Beaver,WV,Northeast,Surface Region 2,Y
+CKB,North Central West Virginia,CRW,III,Bridgeport,WV,Northeast,Surface Region 2,Y
+FNT,Bishop International,DTW,II,Flint,MI,Northeast,Surface Region 3,Y
+CRW,West Virginia International Yeager,CRW,III,Charleston,WV,Northeast,Surface Region 2,Y
+HTS,Tri-State/Milton J Ferguson Field,CRW,III,Huntington,WV,Northeast,Surface Region 2,Y
+LWB,Greenbrier Valley,CRW,IV,Lewisburg,WV,Northeast,Surface Region 2,Y
+FSD,Joe Foss Field,FSD,II,Sioux Falls,SD,Central,Surface Region 4,Y
+MGW,Morgantown Municipal (Walter L Bill Hart Field),CRW,IV,Morgantown,WV,Northeast,Surface Region 2,Y
+FWA,Fort Wayne International,IND,II,Ft. Wayne,IN,Northeast,Surface Region 3,Y
+PKB,Mid-Ohio Valley Regional,CRW,IV,Parkersburg,WV,Northeast,Surface Region 2,Y
+OWB,Owensboro/Daviess County Regional,CVG,III,Owensboro,KY,Northeast,Surface Region 2,Y
+PAH,Barkley Regional,CVG,IV,West Paducah,KY,Northeast,Surface Region 2,Y
+ABI,Abilene Regional,DAL,III,Abilene,TX,Western,Surface Region 4,Y
+GEG,Spokane International,SEA,I,Spokane,WA,Western,Surface Region 5,Y
+GGG,East Texas Regional,DAL,III,Longview,TX,Western,Surface Region 4,Y
+SPS,Sheppard AFB/Wichita Falls Municipal,DAL,III,Wichita Falls,TX,Western,Surface Region 4,Y
+TYR,Tyler Pounds Regional,DAL,III,Tyler,TX,Western,Surface Region 4,Y
+ALS,San Luis Valley Regional/Bergman Field,DEN,IV,Alamosa,CO,Central,Surface Region 4,Y
+CEZ,Cortez Municipal,DEN,IV,Cortez,CO,Central,Surface Region 4,Y
+GNV,Gainesville Regional,MCO,II,Gainesville,FL,Southeast,Surface Region 2,Y
+GPI,Glacier Park International,BIL,II,Kalispell,MT,Central,Surface Region 4,Y
+GPT,Gulfport-Biloxi International,JAN,II,Gulfport,MS,Southeast,Surface Region 2,Y
+GRB,Green Bay/Austin Straubel International,MKE,II,Green Bay,WI,Central,Surface Region 3,Y
+DRO,Durango-La Plata County,DEN,III,Durango,CO,Central,Surface Region 4,Y
+EGE,Eagle County Regional,DEN,III,Eagle,CO,Central,Surface Region 4,Y
+GRR,Gerald R Ford International,DTW,I,Grand Rapids,MI,Northeast,Surface Region 3,Y
+GSN,Francisco C Ada/Saipan International,HNL,II,Saipan,MP,Western,Surface Region 5,Y
+GSO,Piedmont Triad International,RDU,II,Greensboro,NC,Southeast,Surface Region 2,Y
+GSP,Greenville Spartanburg International,CHS,II,Greer,SC,Southeast,Surface Region 2,Y
+FNL,Northern Colorado Regional,DEN,III,Loveland,CO,Central,Surface Region 4,Y
+GJT,Grand Junction Regional,DEN,III,Grand Junction,CO,Central,Surface Region 4,Y
+GUC,Gunnison-Crested Butte Regional,DEN,III,Gunnison,CO,Central,Surface Region 4,Y
+HDN,Yampa Valley,DEN,III,Hayden,CO,Central,Surface Region 4,Y
+GUM,Guam International,HNL,I,Tamuning,GU,Western,Surface Region 5,Y
+MTJ,Montrose Regional,DEN,III,Montrose,CO,Central,Surface Region 4,Y
+PUB,Pueblo Memorial,DEN,III,Pueblo,CO,Central,Surface Region 4,Y
+TEX,Telluride Regional,DEN,IV,Telluride,CO,Central,Surface Region 4,Y
+ALO,Waterloo Regional,DSM,IV,Waterloo,IA,Central,Surface Region 3,Y
+HNL,Daniel K Inouye International,HNL,X,Honolulu,HI,Western,Surface Region 5,Y
+BRL,Southeast Iowa Regional,DSM,IV,Burlington,IA,Central,Surface Region 3,Y
+HOU,William P Hobby,IAH,I,Houston,TX,Western,Surface Region 4,Y
+HPN,Westchester County,JFK,II,White Plains,NY,Northeast,Surface Region 1,Y
+HRL,Valley International,SAT,II,Harlingen,TX,Western,Surface Region 4,Y
+HSV,Huntsville International-Carl T Jones Field,BHM,II,Huntsville,AL,Southeast,Surface Region 2,Y
+DBQ,Dubuque Regional,DSM,III,Dubuque,IA,Central,Surface Region 3,N
+HVN,Tweed/New Haven,BDL,II,New Haven,CT,Northeast,Surface Region 1,Y
+FOD,Fort Dodge Regional,DSM,IV,Fort Dodge,IA,Central,Surface Region 3,Y
+MCW,Mason City Municipal,DSM,IV,Mason City,IA,Central,Surface Region 3,Y
+SUX,Sioux Gateway/Brig General Bud Day Field,DSM,IV,Sioux City,IA,Central,Surface Region 3,Y
+APN,Alpena County Regional,DTW,IV,Alpena,MI,Northeast,Surface Region 3,Y
+IAD,Washington Dulles International,IAD,X,Dulles,VA,Southeast,Surface Region 2,Y
+AZO,Kalamazoo/Battle Creek International,DTW,III,Kalamazoo,MI,Northeast,Surface Region 3,Y
+IAH,George Bush Intercontinental/Houston,IAH,X,Houston,TX,Western,Surface Region 4,Y
+ICT,Wichita Dwight D Eisenhower National,ICT,II,Wichita,KS,Central,Surface Region 3,Y
+IDA,Idaho Falls Regional,BOI,II,Idaho Falls,ID,Western,Surface Region 5,Y
+CIU,Chippewa County International,DTW,IV,Kincheloe,MI,Northeast,Surface Region 3,Y
+CMX,Houghton County Memorial,DTW,IV,Calumet,MI,Northeast,Surface Region 3,Y
+ILM,Wilmington International,RDU,II,Wilmington,NC,Southeast,Surface Region 2,Y
+ESC,Delta County,DTW,IV,Escanaba,MI,Northeast,Surface Region 3,Y
+IND,Indianapolis International,IND,I,Indianapolis,IN,Northeast,Surface Region 3,Y
+IMT,Ford,DTW,IV,Kingsford,MI,Northeast,Surface Region 3,Y
+INT08,Dallas ROC,HQ,'-,Moab,TX,Central,Surface Region 3,N
+INT10,Honolulu ROC,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT14,Los Angeles,HQ,'-,Moab,CA,Central,Surface Region 3,N
+INT17,Miami ROC,HQ,'-,Moab,FL,Central,Surface Region 3,N
+INT23,Reston ROC,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT31,"TSA International Regional Bureaus (WH, AP, EUR, AME)",HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT32,US - Bangkok Incoming TSAR,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT33,US - Berlin Outgoing TSAR,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT34,US - Brussels Outgoing TSAR,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT35,US - DAKAR Outgoing TSAR ,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT36,US - UAE Incoming TSAR,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT37,US - UK Outgoing TSAR,HQ,'-,Moab,VA,Central,Surface Region 3,N
+INT38,US - Manila Incoming TSAR ,HQ,'-,Moab,VA,Central,Surface Region 3,N
+IWD,Gogebic/Iron County,DTW,IV,Ironwood,MI,Northeast,Surface Region 3,Y
+LAN,Capital Region International,DTW,III,Lansing,MI,Northeast,Surface Region 3,Y
+MBL,Manistee County/Blacker,DTW,IV,Manistee,MI,Northeast,Surface Region 3,Y
+ISP,Long Island Mac Arthur,JFK,II,Ronkonkoma,NY,Northeast,Surface Region 1,Y
+MBS,MBS International,DTW,III,Freeland,MI,Northeast,Surface Region 3,Y
+ITO,Hilo International,HNL,II,Hilo,HI,Western,Surface Region 5,Y
+IWA,Phoenix-Mesa Gateway,PHX,II,Mesa,AZ,Western,Surface Region 5,Y
+MKG,Muskegon County,DTW,IV,Muskegon,MI,Northeast,Surface Region 3,Y
+JAC,Jackson Hole,CPR,II,Jackson,WY,Central,Surface Region 4,Y
+JAN,Jackson-Medgar Wiley Evers International,JAN,II,Jackson,MS,Southeast,Surface Region 2,Y
+JAX,Jacksonville International,MCO,I,Jacksonville,FL,Southeast,Surface Region 2,Y
+JFK,John F Kennedy International,JFK,X,Jamaica,NY,Northeast,Surface Region 1,Y
+PLN,Pellston Regional/Emmet County,DTW,IV,Pellston,MI,Northeast,Surface Region 3,Y
+SAW,Marquette Sawyer Regional,DTW,III,Gwinn,MI,Northeast,Surface Region 3,Y
+ABR,Aberdeen Regional,FSD,IV,Aberdeen,SD,Central,Surface Region 4,Y
+ATY,Watertown Regional,FSD,IV,Watertown,SD,Central,Surface Region 4,Y
+JNU,Juneau International,ANC,II,Juneau,AK,Western,Surface Region 5,Y
+PIR,Pierre Regional,FSD,IV,Pierre,SD,Central,Surface Region 4,Y
+GCN,Grand Canyon National Park,GCN,III,Grand Canyon,AZ,Western,Surface Region 5,N
+KOA,Ellison Onizuka Kona International at Keahole,HNL,I,Kailua-Kona,HI,Western,Surface Region 5,Y
+JHM,Kapalua,HNL,IV,Kapalua,HI,Western,Surface Region 5,N
+LNY,Lanai,HNL,IV,Lanai City,HI,Western,Surface Region 5,N
+MKK,Molokai,HNL,IV,Hoolehua,HI,Western,Surface Region 5,N
+PPG,Pago Pago International,HNL,III,Pago Pago,AS,Western,Surface Region 5,Y
+LYH,Lynchburg Regional/Preston Glenn Field,IAD,III,Lynchburg,VA,Southeast,Surface Region 2,Y
+LAS,Harry Reid International,LAS,X,Las Vegas,NV,Western,Surface Region 5,Y
+PHF,Newport News/Williamsburg International,IAD,III,Newport News,VA,Southeast,Surface Region 2,Y
+LAX,Los Angeles International,LAX,X,Los Angeles,CA,Western,Surface Region 5,Y
+LBB,Lubbock Preston Smith International,AUS,II,Lubbock,TX,Western,Surface Region 4,Y
+SHD,Shenandoah Valley Regional,IAD,IV,Weyers Cave,VA,Southeast,Surface Region 2,Y
+BPT,Jack Brooks Regional,IAH,III,Beaumont,TX,Western,Surface Region 4,Y
+DDC,Dodge City Regional,ICT,IV,Dodge City,KS,Central,Surface Region 3,Y
+FOE,Topeka Regional,ICT,IV,Topeka,KS,Central,Surface Region 3,N
+GCK,Garden City Regional,ICT,III,Garden City,KS,Central,Surface Region 3,Y
+HYS,Hays Regional,ICT,IV,Hays,KS,Central,Surface Region 3,Y
+LEX,Blue Grass,CVG,II,Lexington,KY,Northeast,Surface Region 2,Y
+LBL,Liberal Mid-America Regional,ICT,IV,Liberal,KS,Central,Surface Region 3,Y
+LGA,LaGuardia,JFK,X,Flushing,NY,Northeast,Surface Region 1,Y
+LGB,Long Beach (Daugherty Field),LAX,I,Long Beach,CA,Western,Surface Region 5,Y
+LIH,Lihue,HNL,I,Lihue,HI,Western,Surface Region 5,Y
+LIT,Bill and Hillary Clinton National/Adams Field,LIT,II,Little Rock,AR,Southeast,Surface Region 4,Y
+MHK,Manhattan Regional,ICT,III,Manhattan,KS,Central,Surface Region 3,Y
+SLN,Salina Regional,ICT,IV,Salina,KS,Central,Surface Region 3,Y
+EVV,Evansville Regional,IND,III,Evansville,IN,Northeast,Surface Region 3,Y
+LAF,Purdue University,IND,IV,West Lafayette,IN,Northeast,Surface Region 3,Y
+GLH,Greenville Mid-Delta,JAN,IV,Greenville,MS,Southeast,Surface Region 2,Y
+GTR,Golden Triangle Regional,JAN,III,Columbus,MS,Southeast,Surface Region 2,Y
+MEI,Key Field,JAN,IV,Meridian,MS,Southeast,Surface Region 2,Y
+PIB,Hattiesburg/Laurel Regional,JAN,IV,Moselle,MS,Southeast,Surface Region 2,Y
+MAF,Midland International Air And Space Port,AUS,II,Midland,TX,Western,Surface Region 4,Y
+TUP,Tupelo Regional,JAN,IV,Tupelo,MS,Southeast,Surface Region 2,Y
+SWF,New York Stewart International,JFK,III,New  Windor,NY,Northeast,Surface Region 1,Y
+EKO,Elko Regional,LAS,IV,Elko,NV,Western,Surface Region 5,Y
+MCI,Kansas City International,STL,I,Kansas City,MO,Central,Surface Region 3,Y
+SBD,San Bernardino International,LAX,III,San Bernardino,CA,Western,Surface Region 5,Y
+ELD,South Arkansas Regional at Goodwin Field,LIT,IV,El Dorado,AR,Southeast,Surface Region 4,Y
+MCO,Orlando International,MCO,X,Orlando,FL,Southeast,Surface Region 2,Y
+FSM,Fort Smith Regional,LIT,III,Ft Smith,AR,Southeast,Surface Region 4,Y
+MDT,Harrisburg International,PHL,II,Middletown,PA,Northeast,Surface Region 2,Y
+MDW,Chicago Midway International,ORD,I,Chicago,IL,Central,Surface Region 3,Y
+TXK,Texarkana Regional-Webb Field,LIT,III,Texarkana,AR,Southeast,Surface Region 4,Y
+MEM,Memphis International,BNA,I,Memphis,TN,Southeast,Surface Region 2,Y
+MFE,Mc Allen Miller International,SAT,II,McAllen,TX,Western,Surface Region 4,Y
+MFR,Rogue Valley International - Medford,PDX,II,Medford,OR,Western,Surface Region 5,Y
+FPR,Treasure Coast International,MCO,III,Ft. Pierce,FL,Southeast,Surface Region 2,Y
+SGJ,Northeast Florida Regional,MCO,III,St. Augustine,FL,Southeast,Surface Region 2,N
+VRB,Vero Beach Regional,MCO,III,Vero Beach,FL,Southeast,Surface Region 2,Y
+MHT,Manchester Boston Regional,MHT,II,Manchester,NH,Northeast,Surface Region 1,Y
+MIA,Miami International,MIA,X,Miami,FL,Southeast,Surface Region 2,Y
+MKE,General Mitchell International,MKE,I,Milwaukee,WI,Central,Surface Region 3,Y
+LEB,Lebanon Municipal,MHT,IV,West Lebanon,NH,Northeast,Surface Region 1,Y
+PSM,Portsmouth International at Pease,MHT,III,Portsmouth,NH,Northeast,Surface Region 1,Y
+CWA,Central Wisconsin,MKE,III,Mosinee,WI,Central,Surface Region 3,Y
+MLB,Melbourne Orlando International,MCO,II,Melbourne,FL,Southeast,Surface Region 2,Y
+MLI,Quad Cities International,ORD,II,Moline,IL,Central,Surface Region 3,Y
+EAU,Chippewa Valley Regional,MKE,III,Eau Claire,WI,Central,Surface Region 3,Y
+LSE,La Crosse Regional,MKE,III,La Crosse,WI,Central,Surface Region 3,Y
+MOB,Mobile Regional,BHM,II,Mobile,AL,Southeast,Surface Region 2,Y
+RHI,Rhinelander/Oneida County,MKE,III,Rhinelander,WI,Central,Surface Region 3,Y
+MRY,Monterey Regional,SFO,II,Monterey,CA,Western,Surface Region 5,Y
+BJI,Bemidji Regional,MSP,IV,Bemidji,MN,Central,Surface Region 3,Y
+MSN,Dane County Regional/Truax Field,MKE,II,Madison,WI,Central,Surface Region 3,Y
+MSO,Missoula Montana,BIL,II,Missoula,MT,Central,Surface Region 4,Y
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,MSP,X,St. Paul,MN,Central,Surface Region 3,Y
+BRD,Brainerd Lakes Regional,MSP,IV,Brainerd,MN,Central,Surface Region 3,Y
+MSY,Louis Armstrong New Orleans International,MSY,I,Kenner,LA,Southeast,Surface Region 4,Y
+DLH,Duluth International,MSP,III,Duluth,MN,Central,Surface Region 3,Y
+HIB,Range Regional,MSP,IV,Hibbing,MN,Central,Surface Region 3,Y
+INL,Falls International/Einarson Field,MSP,IV,International Falls,MN,Central,Surface Region 3,Y
+MYR,Myrtle Beach International,CHS,I,Myrtle Beach,SC,Southeast,Surface Region 2,Y
+NTV,National Transportation Vetting Center,NTV,II,Colorado Springs,CO,Central,Surface Region 4,N
+NTVC,National Transportation Vetting Center,HQ,'-,Moab,VA,Central,Surface Region 3,N
+RST,Rochester International,MSP,III,Rochester,MN,Central,Surface Region 3,Y
+STC,St Cloud Regional,MSP,III,St. Cloud,MN,Central,Surface Region 3,Y
+OAK,Oakland International,OAK,I,Oakland,CA,Western,Surface Region 5,Y
+TVF,Thief River Falls Regional,MSP,IV,Thief River Falls,MN,Central,Surface Region 3,Y
+OGG,Kahului,HNL,I,"Kahului, Maui",HI,Western,Surface Region 5,Y
+AEX,Alexandria International,MSY,III,Alexandria,LA,Southeast,Surface Region 4,Y
+OKC,OKC Will Rogers International,OKC,I,Oklahoma City,OK,Central,Surface Region 4,Y
+LCH,Lake Charles Regional,MSY,III,Lake Charles,LA,Southeast,Surface Region 4,Y
+OMA,Eppley Airfield,OMA,I,Omaha,NE,Central,Surface Region 3,Y
+LFT,Lafayette Regional/Paul Fournet Field,MSY,III,Lafayette,LA,Southeast,Surface Region 4,Y
+ONT,Ontario International,LAX,I,Ontario,CA,Western,Surface Region 5,Y
+ORD,Chicago O'Hare International,ORD,X,Chicago,IL,Central,Surface Region 3,Y
+ORF,Norfolk International,IAD,I,Norfolk,VA,Southeast,Surface Region 2,Y
+MLU,Monroe Regional,MSY,III,Monroe,LA,Southeast,Surface Region 4,Y
+SCK,Stockton Metropolitan,OAK,III,Stockton,CA,Western,Surface Region 5,Y
+LAW,Lawton-Fort Sill Regional,OKC,III,Lawton,OK,Central,Surface Region 4,Y
+SWO,Stillwater Regional,OKC,III,Stillwater,OK,Central,Surface Region 4,Y
+PAE,Snohomish County (Paine Field),SEA,II,Snohomish County,WA,Western,Surface Region 5,Y
+AIA,Alliance Municipal,OMA,IV,Alliance,NE,Central,Surface Region 3,Y
+BFF,Western Nebraska Regional/William B Heilig Field,OMA,IV,Gering,NE,Central,Surface Region 3,Y
+PBI,Palm Beach International,MCO,I,West Palm Beach,FL,Southeast,Surface Region 2,Y
+PDX,Portland International,PDX,I,Portland,OR,Western,Surface Region 5,Y
+CDR,Chadron Municipal,OMA,IV,Chadron,NE,Central,Surface Region 3,Y
+PGD,Punta Gorda,RSW,II,Punta Gorda,FL,Southeast,Surface Region 2,Y
+EAR,Kearney Regional,OMA,IV,Kearney,NE,Central,Surface Region 3,Y
+GRI,Central Nebraska Regional,OMA,III,Grand Island,NE,Central,Surface Region 3,Y
+PHL,Philadelphia International,PHL,X,Philadelphia,PA,Northeast,Surface Region 2,Y
+PHX,Phoenix Sky Harbor International,PHX,X,Phoenix,AZ,Western,Surface Region 5,Y
+PIA,General Downing - Peoria International,ORD,II,Peoria,IL,Central,Surface Region 3,Y
+LBF,North Platte Regional/Lee Bird Field,OMA,IV,North Platte,NE,Central,Surface Region 3,Y
+PIE,St Pete-Clearwater International,TPA,II,Clearwater,FL,Southeast,Surface Region 2,Y
+LNK,Lincoln,OMA,III,Lincoln,NE,Central,Surface Region 3,Y
+MCK,Mc Cook Ben Nelson Regional,OMA,IV,McCook,NE,Central,Surface Region 3,Y
+PIT,Pittsburgh International,PHL,I,Pittsburgh,PA,Northeast,Surface Region 2,Y
+BLV,Scott AFB/Midamerica St Louis,ORD,III,Mascoutah,IL,Central,Surface Region 3,Y
+BMI,Central Illinois Regional/Bloomington-Normal,ORD,III,Bloomington,IL,Central,Surface Region 3,Y
+PNS,Pensacola International,MCO,I,Pensacola,FL,Southeast,Surface Region 2,Y
+CMI,University Of Illinois/Willard,ORD,III,Savoy,IL,Central,Surface Region 3,Y
+DEC,Decatur,ORD,IV,Decatur,IL,Central,Surface Region 3,Y
+MWA,Veterans Airport Of Southern Illinois,ORD,IV,Marion,IL,Central,Surface Region 3,Y
+PSC,Tri-Cities,SEA,II,Pasco,WA,Western,Surface Region 5,Y
+RFD,Chicago/Rockford International,ORD,III,Rockford,IL,Central,Surface Region 3,Y
+SPI,Abraham Lincoln Capital,ORD,III,Springfield,IL,Central,Surface Region 3,Y
+UIN,Quincy Regional-Baldwin Field,ORD,IV,Quincy,IL,Central,Surface Region 3,Y
+PSP,Palm Springs International,LAX,I,Palm Springs,CA,Western,Surface Region 5,Y
+OTH,Southwest Oregon Regional,PDX,III,North Bend,OR,Western,Surface Region 5,Y
+SLE,McNary Field,PDX,III,Salem,OR,Western,Surface Region 5,Y
+AOO,Altoona/Blair County,PHL,IV,Martinsburg,PA,Northeast,Surface Region 2,Y
+PVD,Rhode Island TF Green International,PVD,I,Warwick,RI,Northeast,Surface Region 1,Y
+PVU,Provo Municipal,SLC,II,Utah County,UT,Western,Surface Region 4,Y
+PWM,Portland International Jetport,PWM,II,Portland,ME,Northeast,Surface Region 1,Y
+RAP,Rapid City Regional,FSD,II,Rapid City,SD,Central,Surface Region 4,Y
+BFD,Bradford Regional,PHL,IV,Lewis Run,PA,Northeast,Surface Region 2,Y
+DUJ,Dubois Regional,PHL,IV,Falls Creek,PA,Northeast,Surface Region 2,Y
+RDM,Roberts Field,PDX,II,Redmond,OR,Western,Surface Region 5,Y
+RDU,Raleigh-Durham International,RDU,I,RDU Airport,NC,Southeast,Surface Region 2,Y
+ERI,Erie International/Tom Ridge Field,PHL,III,Erie,PA,Northeast,Surface Region 2,Y
+ILG,New Castle,PHL,III,New Castle,DE,Northeast,Surface Region 2,Y
+RIC,Richmond International,IAD,I,Richmond,VA,Southeast,Surface Region 2,Y
+IPT,Williamsport Regional,PHL,IV,Montoursville,PA,Northeast,Surface Region 2,Y
+JST,John Murtha Johnstown/Cambria County,PHL,IV,Johnstown,PA,Northeast,Surface Region 2,Y
+LBE,Arnold Palmer Regional,PHL,III,Latrobe,PA,Northeast,Surface Region 2,Y
+RNO,Reno/Tahoe International,LAS,I,Reno,NV,Western,Surface Region 5,Y
+ROA,Roanoke/Blacksburg Regional (Woodrum Field),IAD,II,Roanoke,VA,Southeast,Surface Region 2,Y
+ROC,Frederick Douglass/Greater Rochester International,ALB,II,Rochester,NY,Northeast,Surface Region 1,Y
+LNS,Lancaster,PHL,III,Lititz,PA,Northeast,Surface Region 2,Y
+RDG,Reading Regional/Carl A Spaatz Field,PHL,IV,Reading,PA,Northeast,Surface Region 2,N
+RSW,Southwest Florida International,RSW,I,Fort Myers,FL,Southeast,Surface Region 2,Y
+UNV,University Park,PHL,III,University Park,PA,Northeast,Surface Region 2,Y
+FLG,Flagstaff Pulliam,PHX,III,Flagstaff,AZ,Western,Surface Region 5,Y
+SAN,San Diego International,SAN,I,San Diego,CA,Western,Surface Region 5,Y
+SAT,San Antonio International,SAT,I,San Antonio,TX,Western,Surface Region 4,Y
+SAV,Savannah/Hilton Head International,ATL,I,Savannah,GA,Southeast,Surface Region 2,Y
+IFP,Laughlin/Bullhead International,PHX,III,Bullhead City,AZ,Western,Surface Region 5,Y
+SBA,Santa Barbara Municipal,BUR,II,Santa Barbara,CA,Western,Surface Region 5,Y
+NYL,Yuma MCAS/Yuma International,PHX,III,Yuma,AZ,Western,Surface Region 5,Y
+SBN,South Bend International,IND,II,South Bend,IN,Northeast,Surface Region 3,Y
+SBP,San Luis County Regional,BUR,II,San Luis Obispo,CA,Western,Surface Region 5,Y
+PGA,Page Municipal,PHX,IV,Page,AZ,Western,Surface Region 5,Y
+PRC,Prescott Regional - Ernest A Love Field,PHX,IV,Prescott,AZ,Western,Surface Region 5,Y
+SOW,Show Low Regional,PHX,IV,Show Low,AZ,Western,Surface Region 5,Y
+SDF,Louisville Muhammad Ali International,CVG,I,Louisville,KY,Northeast,Surface Region 2,Y
+AUG,Augusta State,PWM,IV,Augusta,ME,Northeast,Surface Region 1,Y
+SEA,Seattle-Tacoma International,SEA,X,Seattle,WA,Western,Surface Region 5,Y
+SFB,Orlando Sanford International,MCO,I,Sanford,FL,Southeast,Surface Region 2,Y
+SFO,San Francisco International,SFO,X,San Francisco,CA,Western,Surface Region 5,Y
+SGF,Springfield-Branson National,STL,II,Springfield,MO,Central,Surface Region 3,Y
+BHB,Hancock County/Bar Harbor,PWM,IV,Trenton,ME,Northeast,Surface Region 1,Y
+PQI,Presque Isle International,PWM,III,Presque Isle,ME,Northeast,Surface Region 1,Y
+RKD,Knox County Regional,PWM,IV,Rockland,ME,Northeast,Surface Region 1,Y
+EWN,Coastal Carolina Regional,RDU,III,New Bern,NC,Southeast,Surface Region 2,Y
+SHV,Shreveport Regional,MSY,II,Shreveport,LA,Southeast,Surface Region 4,Y
+FAY,Fayetteville Regional/Grannis Field,RDU,III,Fayetteville,NC,Southeast,Surface Region 2,Y
+SJC,Norman Y Mineta San Jose International,SFO,I,San Jose,CA,Western,Surface Region 5,Y
+OAJ,Albert J Ellis,RDU,III,Richlands,NC,Southeast,Surface Region 2,Y
+SJU,Luis Munoz Marin International,SJU,I,San Juan,PR,Southeast,Surface Region 2,Y
+SLC,Salt Lake City International,SLC,I,Salt Lake City,UT,Western,Surface Region 4,Y
+PGV,Pitt-Greenville,RDU,IV,Greenville,NC,Southeast,Surface Region 2,Y
+CRQ,McClellan-Palomar,SAN,III,Carlsbad,CA,Western,Surface Region 5,Y
+IPL,Imperial County,SAN,IV,Imperial,CA,Western,Surface Region 5,Y
+SMF,Sacramento International,SMF,I,Sacramento,CA,Western,Surface Region 5,Y
+BRO,Brownsville/South Padre Island International,SAT,III,Brownsville,TX,Western,Surface Region 4,Y
+SNA,John Wayne/Orange County,LAX,I,Santa Ana,CA,Western,Surface Region 5,Y
+DRT,Del Rio International,SAT,III,Del Rio,TX,Western,Surface Region 4,N
+LRD,Laredo International,SAT,III,Laredo,TX,Western,Surface Region 4,Y
+VCT,Victoria Regional,SAT,IV,Victoria,TX,Western,Surface Region 4,Y
+SRQ,Sarasota/Bradenton International,TPA,I,Sarasota,FL,Southeast,Surface Region 2,Y
+ALW,Walla Walla Regional,SEA,III,Walla Walla,WA,Western,Surface Region 5,Y
+STL,St Louis Lambert International,STL,I,St Louis,MO,Central,Surface Region 3,Y
+STS,Charles M Schulz - Sonoma County,OAK,II,Santa Rosa,CA,Western,Surface Region 5,Y
+STT,Cyril E King,SJU,II,St Thomas,VI,Southeast,Surface Region 2,Y
+EAT,Pangborn Memorial,SEA,III,East Wenatchee,WA,Western,Surface Region 5,Y
+PUW,Pullman/Moscow Regional,SEA,III,Pullman,WA,Western,Surface Region 5,Y
+YKM,Yakima Air Terminal/Mcallister Field,SEA,III,Yakima,WA,Western,Surface Region 5,Y
+BFL,Meadows Field,SFO,III,Bakersfield,CA,Western,Surface Region 5,Y
+BIH,Bishop,SFO,III,Bishop,CA,Western,Surface Region 5,Y
+SYR,Syracuse Hancock International,ALB,I,North Syracuse,NY,Northeast,Surface Region 1,Y
+MCE,Merced Regional/Macready Field,SFO,IV,Merced,CA,Western,Surface Region 5,Y
+MMH,Mammoth Yosemite,SFO,III,Mammoth Lakes,CA,Western,Surface Region 5,N
+TLH,Tallahassee International,MCO,II,Tallahassee,FL,Southeast,Surface Region 2,Y
+PSE,Mercedita,SJU,III,Ponce,PR,Southeast,Surface Region 2,Y
+TPA,Tampa International,TPA,I,Tampa,FL,Southeast,Surface Region 2,Y
+STX,Henry E Rohlsen,SJU,III,Christiansted,VI,Southeast,Surface Region 2,Y
+CDC,Cedar City Regional,SLC,IV,Cedar City,UT,Western,Surface Region 4,Y
+TTN,Trenton Mercer,EWR,II,Mercer,NJ,Northeast,Surface Region 1,Y
+TUL,Tulsa International,OKC,I,Tulsa,OK,Central,Surface Region 4,Y
+CNY,Canyonlands Regional,SLC,IV,Moab,UT,Western,Surface Region 4,Y
+TUS,Tucson International,PHX,I,Tucson,AZ,Western,Surface Region 5,Y
+TVC,Cherry Capital,DTW,II,Traverse City,MI,Northeast,Surface Region 3,Y
+ENV,Wendover,SLC,III,Wendover,UT,Western,Surface Region 4,N
+OGD,Ogden-Hinckley,SLC,III,Ogden,UT,Western,Surface Region 4,Y
+SGU,St George Regional,SLC,III,St. George,UT,Western,Surface Region 4,Y
+VEL,Vernal Regional,SLC,IV,Vernal,UT,Western,Surface Region 4,Y
+TYS,Mc Ghee Tyson,BNA,I,Alcoa,TN,Southeast,Surface Region 2,Y
+ACV,California Redwood Coast-Humboldt County,SMF,III,McKinleyville,CA,Western,Surface Region 5,Y
+CEC,Jack Mc Namara Field,SMF,IV,Crescent City,CA,Western,Surface Region 5,Y
+RDD,Redding Regional,SMF,III,Redding,CA,Western,Surface Region 5,Y
+BBG,Branson,STL,III,Branson,MO,Central,Surface Region 3,Y
+CGI,Cape Girardeau Regional,STL,IV,Cape Girardeau,MO,Central,Surface Region 3,Y
+VPS,Eglin AFB/Destin-Ft Walton Beach,MCO,II,Eglin Air Force Base,FL,Southeast,Surface Region 2,Y
+COU,Columbia Regional,STL,III,Columbia,MO,Central,Surface Region 3,Y
+IRK,Kirksville Regional,STL,IV,Kirksville,MO,Central,Surface Region 3,Y
+JLN,Joplin Regional,STL,III,Joplin,MO,Central,Surface Region 3,Y
+XNA,Northwest Arkansas National,LIT,II,Bentonville,AR,Southeast,Surface Region 4,Y
+TBN,Waynesville-St Robert Regional Forney Field,STL,IV,Ft. Leonard Wood,MO,Central,Surface Region 3,Y
+LAL,Lakeland Linder International,TPA,III,Lakeland,FL,Southeast,Surface Region 2,Y
+TS1,TSA Academy,TS1,IV,Brunswick,GA,Southeast,Surface Region 1,N
